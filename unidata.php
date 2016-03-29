@@ -17,7 +17,7 @@ University Survey Data
 <br>
 </div>
 <?php
-$con =  mysqli_connect('localhost','root','','heroku');
+$con =  mysqli_connect('sql6.freemysqlhosting.net','sql6112842','d5w2TkFiFQ','sql6112842');
 $sql = "SELECT * FROM allsurvey";
 $result = mysqli_query($con,$sql);
 echo "<table border=5 style=margin:50px>

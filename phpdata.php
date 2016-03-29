@@ -13,7 +13,7 @@ $q9=$_REQUEST['pa9'];
 $q10=$_REQUEST['pa10'];
 
 
-$con =  mysqli_connect('localhost','root','','heroku');
+$con =  mysqli_connect('sql6.freemysqlhosting.net','sql6112842','d5w2TkFiFQ','sql6112842');
 
 if (!$con) {
     die("Connection failed: " . mysqli_connect_error());

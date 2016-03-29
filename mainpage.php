@@ -34,7 +34,7 @@ Survey App
 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
 Surveys<span class="caret"></span></button>
 <ul class="dropdown-menu">
-<li><a href="http://localhost/New%20Survey%20App/unidata.php" target="_blank">University Survey</a></li>
+<li><a href="unidata.php" target="_blank">University Survey</a></li>
 <li><a href="#">Employee Survey</a></li>
 <li><a href="#">Customer Survey</a></li>
 </ul>
@@ -79,7 +79,7 @@ Graphs<span class="caret"></span></button>
 <div class="col-md-offset-4 col-md-7 forms1">
 <h1>All Survey Forms</h1>
 <ul>
-<li><h2>University Survey <a href="http://localhost/New%20Survey%20App/uniForm.html" target="_blank">Open Form</a></h2></li>
+<li><h2>University Survey <a href="uniForm.html" target="_blank">Open Form</a></h2></li>
 <li><h2>Employee Survey <a href="#">Open Form</a></h2></li>
 <li><h2>Customer Survey <a href="#">Open Form</a></h2></li>
 </ul>
