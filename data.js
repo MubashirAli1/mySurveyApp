@@ -119,5 +119,4 @@ xmlhttp.open('GET','phpdata.php?pemail='+email+'&pcountry='+country+'&pa1='+a1+
 '&pa2='+a2+'&pa3='+a3+'&pa4='+a4+'&pa5='+a5+'&pa6='+a6+'&pa7='+a7+'&pa8='+a8+
 '&pa9='+a9+'&pa10='+a10,true);
 xmlhttp.send();
-alert('dsdds');
 }
